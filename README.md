@@ -1,6 +1,3 @@
-# Deleted by the owner it may not work, Get Updates on <a href="https://t.me/ErrorFiX_Tv">TELEGRAM (only for education)</a>.
-<p align="center">
-<img src="https://github.com/D3VL/L3MON/raw/master/server/assets/webpublic/logo.png" height="60"><br>
 A cloud-based remote Android management suite, powered by NodeJS 
 </p>
 
@@ -28,7 +25,7 @@ A cloud-based remote Android management suite, powered by NodeJS
 - Dendroid
 - LizRAT
 - ShivaTheCreator
-- [Read more](https://github.com/efxtv/RATS/blob/main/README.md) 
+- [Read more](https://github.com/fiuuloveyouu/RATS) 
 
 
 ## L3MON Features
